@@ -9,6 +9,7 @@ internal class Program
 
         CurrentConditionsDisplay currentDisplay = new CurrentConditionsDisplay(weatherData);
         StatisticsDisplay statisticsDisplay = new StatisticsDisplay(weatherData);
+        ForecastDisplay forecastDisplay = new ForecastDisplay(weatherData);
 
         weatherData.SetMeasurements(26.6f, 65f, 1013.1f);
         Console.WriteLine("---");
