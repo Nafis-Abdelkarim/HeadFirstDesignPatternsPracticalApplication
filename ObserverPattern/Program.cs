@@ -8,6 +8,7 @@ internal class Program
         WeatherData weatherData = new WeatherData();
 
         CurrentConditionsDisplay currentDisplay = new CurrentConditionsDisplay(weatherData);
+        StatisticsDisplay statisticsDisplay = new StatisticsDisplay(weatherData);
 
         weatherData.SetMeasurements(26.6f, 65f, 1013.1f);
         Console.WriteLine("---");
