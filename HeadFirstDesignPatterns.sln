@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35913.81
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyPattern", "StrategyPattern\StrategyPattern.csproj", "{008DD1E0-3A9A-4FEA-B487-AD4F89BE85E9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimUDuckWithStrategyPattern", "StrategyPattern\SimUDuckWithStrategyPattern.csproj", "{008DD1E0-3A9A-4FEA-B487-AD4F89BE85E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverPattern", "ObserverPattern\ObserverPattern.csproj", "{6BF95217-A1C4-4624-9554-7DD6F06973A2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherStationAppWithObserverPattern", "ObserverPattern\WeatherStationAppWithObserverPattern.csproj", "{6BF95217-A1C4-4624-9554-7DD6F06973A2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarbuzzWithDecoratorPattern", "DecoratorPattern\StarbuzzWithDecoratorPattern.csproj", "{875E8987-8127-4013-A573-E6DDC1F9EACE}"
 EndProject
